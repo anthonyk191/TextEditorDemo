@@ -1,2 +1,2 @@
 # TextEditorDemo
-Personal Project Where I am trying to build a text editor from scratch
+Personal project where I am trying to build a text editor from scratch
